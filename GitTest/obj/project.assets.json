@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DaviesIT\\source\\repos\\GitTest\\GitTest\\GitTest.csproj",
+      "projectUniqueName": "C:\\Users\\DaviesIT\\Documents\\GitHub\\GitTest\\GitTest\\GitTest.csproj",
       "projectName": "GitTest",
-      "projectPath": "C:\\Users\\DaviesIT\\source\\repos\\GitTest\\GitTest\\GitTest.csproj",
+      "projectPath": "C:\\Users\\DaviesIT\\Documents\\GitHub\\GitTest\\GitTest\\GitTest.csproj",
       "packagesPath": "C:\\Users\\DaviesIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DaviesIT\\source\\repos\\GitTest\\GitTest\\obj\\",
+      "outputPath": "C:\\Users\\DaviesIT\\Documents\\GitHub\\GitTest\\GitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DaviesIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
